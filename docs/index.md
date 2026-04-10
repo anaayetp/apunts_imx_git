@@ -1,4 +1,4 @@
-# 📘 Instal·lació i Manteniment de Xarxes per a la Transmissió de Dades
+# Instal·lació i Manteniment de Xarxes per a la Transmissió de Dades
 
 Benvinguts als apunts del mòdul **IMX** del cicle de **FP Bàsica d'Informàtica d'Oficina**.
 
@@ -6,7 +6,7 @@ En aquest lloc web trobaràs tots els continguts organitzats per temes per facil
 
 ---
 
-## 📚 Índex de continguts
+## Índex de continguts
 
 1. Introducció a les xarxes informàtiques  
 2. Tipus de xarxes  
@@ -20,13 +20,13 @@ En aquest lloc web trobaràs tots els continguts organitzats per temes per facil
 
 ---
 
-## 🎯 Objectiu del mòdul
+## Objectiu del mòdul
 
 L'objectiu d'aquest mòdul és conéixer els conceptes bàsics de les xarxes informàtiques, aprendre a instal·lar-les i realitzar tasques bàsiques de manteniment.
 
 ---
 
-## 👨‍🏫 Professorat
+## Professorat
 Ana Ayet Pons
 
 Material elaborat per al mòdul IMX.
